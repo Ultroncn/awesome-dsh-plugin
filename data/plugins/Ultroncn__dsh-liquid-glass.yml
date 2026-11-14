@@ -2,5 +2,5 @@ url: https://github.com/Ultroncn/dsh-liquid-glass
 name: Ultroncn/dsh-liquid-glass
 category: theme
 description:
-  en: One toggle makes the whole DeepSeek Harness shell translucent, with an opacity slider and a custom full-page background.
-  zh: 一键让整个 DeepSeek Harness 界面通透起来：透明度滑块随心调，背景图自由换。
+  en: Theme backgrounds for DeepSeek Harness with native-style collapsible settings, translucent surfaces, local image/video wallpapers, reading protection, separate light/dark appearance settings, and a still-frame video mode.
+  zh: 为 DeepSeek Harness 提供原生风格折叠设置、半透明界面、本地图片与视频壁纸、阅读保护、独立明暗外观设置和视频静帧模式。
